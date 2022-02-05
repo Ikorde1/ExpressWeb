@@ -213,8 +213,8 @@ footer p{
 
 .main_layer .middle_layer p,
 .main_layer .middle_layer .fa {
-    font-size: 7rem;
-    font-weight: 900;
+    font-size: 5rem;
+    font-weight: 800;
 }
 
 .fa {
@@ -222,7 +222,7 @@ footer p{
 }
 
 sup{
-    font-size: 6rem;
+    font-size: 5rem;
     margin-top: -2rem;
 }
 
